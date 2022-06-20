@@ -1,10 +1,12 @@
 
 import './App.css';
+import RegisterForm from './Registe/RegisterForm';
 
 function App() {
   return (
     <div>
-     <h1>sohila</h1>
+ 
+     <RegisterForm/>
     </div>
   );
 }
